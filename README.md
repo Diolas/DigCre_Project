@@ -22,6 +22,14 @@ The project implementation involves capturing MIDI data from a keyboard, process
 - Used simple AI models to generate abstract images.
 - Tested various visualization styles to understand what works best.
 
+### Code Files
+The following code files are part of this iteration:
+
+1. [midi_capture.py](Python%20Code/midi_capture.py) - Script for capturing MIDI data.
+2. [image_generator.py](Python%20Code/image_generator.py) - AI model for generating images.
+3. [data_processing.py](Python%20Code/data_processing.py) - Preprocessing MIDI data for visualization.
+
+
 ---
 
 ## Second Iteration
